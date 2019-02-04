@@ -8,6 +8,7 @@ public class TrainSensorImpl implements TrainSensor {
 
 	private TrainController controller;
 	private TrainUser user;
+
 	private int speedLimit = 19;
 
 	public TrainSensorImpl(TrainController controller, TrainUser user) {
