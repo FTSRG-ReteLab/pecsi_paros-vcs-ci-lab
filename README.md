@@ -1,6 +1,4 @@
-# editted by pecsi_csapat
-
-=====
+# editted by *pecsi_csapat*
 
 # Train Speed Controller
 
